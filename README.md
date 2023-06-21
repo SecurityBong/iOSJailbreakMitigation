@@ -1,6 +1,6 @@
 # iOSJailbreakMitigation
 A reference code on how to mitigate
-
+```
 import Foundation
 import MachO.dlfcn
 
@@ -254,5 +254,9 @@ mitigation.protectPrivateSyscalls()
 mitigation.preventPrivateSyscalls()
 mitigation.protectDetectionFrameworks()
 mitigation.preventDetectionFrameworks()
+```
 
+Please note that while the code aims to provide a foundation for implementing jailbreak detection, prevention, and RASP techniques, it's crucial to adapt and customize it based on your specific requirements, security needs, and the latest jailbreak detection/prevention techniques. 
+Use any RASP service provider.
+Talsec has an free RASP profile.
 
