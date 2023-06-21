@@ -1,6 +1,6 @@
 # iOSJailbreakMitigation
 A reference code on how to mitigate
-```
+
 import Foundation
 import MachO.dlfcn
 
@@ -255,4 +255,4 @@ mitigation.preventPrivateSyscalls()
 mitigation.protectDetectionFrameworks()
 mitigation.preventDetectionFrameworks()
 
-```
+
