@@ -1,5 +1,5 @@
 # iOSJailbreakMitigation
-A reference code on how to mitigate
+This is not the mitigation code but a reference code on how to mitigate. 
 ```
 import Foundation
 import MachO.dlfcn
